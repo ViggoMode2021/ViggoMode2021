@@ -4,7 +4,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: &nbsp; *Portfolio:* https://www.ryanviglione.net \
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; *LinkedIn:* www.linkedin.com/in/ryan-viglione \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; *Location:* Chicopee, MA 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp; *Location:* New London, CT 
 <!--  :envelope_with_arrow: &nbsp; *Email:* perezcpt@gmail.com <br/> --> 
 ### Languages & Tools:
 
