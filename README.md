@@ -1,9 +1,9 @@
 ### 👋  &nbsp; Hey, I'm Ryan! &nbsp;Please check out my portfolio [website](www.ryanviglione.net)!
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: &nbsp; *Portfolio:* https://www.ryanviglione.net \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: &nbsp; *LinkedIn:* www.linkedin.com/in/ryan-viglione \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;  *Location:* New London, CT 
-<!--  :envelope_with_arrow: &nbsp; *Email:* perezcpt@gmail.com <br/> --> 
+*Portfolio:* https://www.ryanviglione.net \
+*LinkedIn:* www.linkedin.com/in/ryan-viglione \
+*Location:* New London, CT 
+*Email:* ryansviglione@gmail.com <br/> --> 
 ### Languages & Tools:
 
 <code><img height="50" src="https://raw.githubusercontent.com/uiwjs/file-icons/63d81cae027521169108efc8a00a64683f9491d1/icon/powershell.svg"></code>
