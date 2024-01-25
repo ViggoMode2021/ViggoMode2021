@@ -3,7 +3,8 @@
 *Portfolio:* https://www.ryanviglione.net \
 *LinkedIn:* www.linkedin.com/in/ryan-viglione \
 *Location:* New London, CT 
-*Email:* ryansviglione@gmail.com <br/> --> 
+*Email:* ryansviglione@gmail.com <br/>
+
 ### Languages & Tools:
 
 <code><img height="50" src="https://raw.githubusercontent.com/uiwjs/file-icons/63d81cae027521169108efc8a00a64683f9491d1/icon/powershell.svg"></code>
