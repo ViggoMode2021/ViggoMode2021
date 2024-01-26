@@ -2,7 +2,7 @@
 
 *Portfolio:* https://www.ryanviglione.net \
 *LinkedIn:* www.linkedin.com/in/ryan-viglione \
-*Location:* New London, CT 
+*Location:* New London, CT \
 *Email:* ryansviglione@gmail.com <br/>
 
 ### Languages & Tools:
