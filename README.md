@@ -1,4 +1,4 @@
-### 👋  &nbsp; Hey, I'm Ryan! &nbsp;Please check out my portfolio [website](www.ryanviglione.net)!
+### 👋  &nbsp; Hey, I'm Ryan! &nbsp;Please check out my GitHub repositories!
 
 *Portfolio:* https://www.ryanviglione.net \ ** DEFUNCT - Please just refer to my GitHub page for the time being.
 *LinkedIn:* www.linkedin.com/in/ryan-viglione \
