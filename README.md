@@ -1,7 +1,7 @@
 ### 👋  &nbsp; Feel free to check out my GitHub repositories!
 
 *LinkedIn:* www.linkedin.com/in/ryan-viglione \
-*Location:* Connecticut 🏴󠁵󠁳󠁣󠁴󠁿 \
+*Location:* Connecticut 🏴󠁵󠁳󠁣󠁴󠁿
 
 ### Languages & Tools:
 
